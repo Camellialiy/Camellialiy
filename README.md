@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/SaltyFishy/SaltyFishy/blob/main/ba7.png"/>
+<img src="https://github.com/SaltyFishy/SaltyFishy/blob/main/1672885679704.jpg">
