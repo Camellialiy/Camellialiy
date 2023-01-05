@@ -35,4 +35,7 @@ Here are some ideas to get you started:
   <strong><a href="https://www.twitch.tv/SaltyFishy">Twitch</a></strong> -->
 </p>
 
+<p align="center">
+  <a href="https://github.com/SaltyFishy/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaltyFishy&layout=compact">
+</p>
 
