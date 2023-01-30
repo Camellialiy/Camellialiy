@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/SaltyFishy/SaltyFishy/blob/main/ba7.png" width="600vh">
   <img src="https://github.com/SaltyFishy/SaltyFishy/blob/main/1672885679704.jpg">
 </p>
 
