@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**SaltyFishy/SaltyFishy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Camellialiy/Camellialiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/SaltyFishy/SaltyFishy/blob/main/1672885679704.jpg">
+  <img src="https://github.com/Camellialiy/Camellialiy/blob/main/1672885679704.jpg">
 </p>
 
-<h1 align="center">Hi,I'm <a href="https://github.com/SaltyFishy">SaltyFishy</a>!</h1>
+<h1 align="center">Hi,I'm <a href="https://github.com/SaltyFishy">Camellialiy</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ qwq</h1>
 <h1 align="center">You are the <img src="https://visitor-badge.glitch.me/badge?page_id=SaltyFishy&left_color=green&right_color=red"> visitor</h1>
 
